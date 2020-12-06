@@ -1,5 +1,3 @@
 # Linux App 
 
-A new Flutter project.
-
-#The application made by Arsh and Divyansh thankyou :)
+This app allows you to run linux terminal commands and authenticate the user using firebase. 
